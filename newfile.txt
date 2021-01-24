@@ -1,0 +1,2 @@
+   This is a new file.
+   Adding a second line to make changes to the file.
